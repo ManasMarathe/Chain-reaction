@@ -1,7 +1,7 @@
 import pygame   # Library To Build the Game
 import sys
 from math import *   # To Import mathematical Functions
-import pickle        # To Load game Settings from File
+
  
 flag=0
  
